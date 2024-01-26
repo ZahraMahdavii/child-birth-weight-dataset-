@@ -1,2 +1,2 @@
 # child-birth-weight-dataset-
-Enhancing Prenatal Care through Machine Learning: A Comprehensive Analysis of Maternal Factors for Predicting Neonatal Birth Weight
+Leveraging a public dataset of 1800 pregnant women, we analyzed 17 maternal factors, such as age, parity, and blood pressure, to forecast neonatal birth weight. Utilizing advanced ML algorithms, our research revealed that RandomForestClassifier and LogisticRegression models outperformed others, achieving an accuracy of 83.49% in predicting birth weight. While KNeighborsClassifier and GaussianNB closely followed, the Support Vector Machines model, despite slightly lower precision, showcased notable potential. 
